@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterronnect",
+        "uuid": 8050728,
+        "checksum": "t8ewsd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
